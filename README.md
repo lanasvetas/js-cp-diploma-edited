@@ -6,7 +6,7 @@
 - CSS
 - git
 
-[**Ссылка на GitHub Pages:**](https://lanasvetas.github.io/js-cp-diploma-edited/sources/client/index)
+[**Ссылка на GitHub Pages**](https://lanasvetas.github.io/js-cp-diploma-edited/sources/client/index)
 
 ### Студенту предоставляются следующие компоненты системы:
 
